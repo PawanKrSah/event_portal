@@ -1,0 +1,6 @@
+<svg {{ $attributes }} viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="512" height="512" rx="128" fill="#6366f1" />
+    <rect x="128" y="176" width="256" height="208" rx="32" stroke="white" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M176 128V208M336 128V208" stroke="white" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M176 272H336" stroke="white" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
