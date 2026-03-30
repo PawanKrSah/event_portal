@@ -27,10 +27,7 @@ Now we will pull the exact code from your GitHub account.
    ```bash
    cd event_portal
    ```
-5. Download the dependencies required for this project using this command
-   ```bash
-   npm install
-   ```
+
 
  Phase 3: Setup the Environment File
 GitHub intentionally ignores the `.env` file because it contains sensitive passwords. We have to recreate it on the new machine.
