@@ -3,6 +3,8 @@ this is a portal for students to view upcoming events, guest lectures and worksh
 
 To run this new device is completely blank, we need to install the essential development tools first, including Git, so the computer knows how to "talk" to GitHub.
 
+youtube demo video- https://youtu.be/Lw-MqenzjQY
+
 Here is the complete, step-by-step procedure to clone and run your ADBU Student Event portal from GitHub on a new system.
 
  Phase 1: Install the Required Software
