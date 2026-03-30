@@ -80,6 +80,8 @@ Run these commands one by one in your terminal (make sure you are still inside y
 
 Open your browser and navigate to `http://127.0.0.1:8000`. Your ADBU Student Event portal will be perfectly cloned, connected to your database, and fully operational!
 
+To login as a super admin the email "admin@event.com" password is "admin@123"
+
 
  
 # student_event
