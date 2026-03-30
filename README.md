@@ -21,11 +21,15 @@ Now we will pull the exact code from your GitHub account.
 2. Navigate to the folder where you want to save the project (e.g., `cd Desktop`).
 3. Run the clone command using your specific GitHub repository URL:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/PawanKrSah/event_portal.git
    ```
 4. Once it finishes downloading, navigate *into* the newly created project folder:
    ```bash
-   cd your-repository-name
+   cd event_portal
+   ```
+5. Download the dependencies required for this project using this command
+   ```bash
+   npm install
    ```
 
  Phase 3: Setup the Environment File
