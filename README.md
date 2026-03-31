@@ -52,6 +52,7 @@ GitHub intentionally ignores the `.env` file because it contains sensitive passw
 2. Open your web browser and go to `http://localhost/phpmyadmin`.
 3. Click New on the left side to create a database and name it exactly what you put in your `.env` file (e.g., `adbu_events`).
 4. Click on the new database, select the Import tab at the top, choose your provided `.sql` file, and click Import at the bottom.
+   (I have provided the sql file in this repo.)
 
  Phase 5: Install Dependencies & Run
 Now we just need to tell Composer and Node.js to download all the hidden framework files that GitHub didn't include. 
